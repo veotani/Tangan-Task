@@ -1,0 +1,6 @@
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.Win\bin\Debug\TanganTask.Win.exe.config
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.Win\obj\Debug\TanganTask.Win.csprojResolveAssemblyReference.cache
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.Win\obj\Debug\TanganTask.Win.Manager.resources
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.Win\obj\Debug\TanganTask.Win.Properties.Resources.resources
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.Win\obj\Debug\TanganTask.Win.Statistic.resources
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.Win\obj\Debug\TanganTask.Win.csproj.GenerateResource.Cache

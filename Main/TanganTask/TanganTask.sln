@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanganTaskTests", "TanganTaskTests\TanganTaskTests.csproj", "{79407AC7-C8C8-480B-A036-38C33A571030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanganTask.DAL", "TanganTask.DAL\TanganTask.DAL.csproj", "{49A2B45B-97A4-4F37-8C69-4DF5EB03280D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanganTask.MailManager", "TanganTask.MailManager\TanganTask.MailManager.csproj", "{954682AE-18B1-489F-B5F2-7DB09BAD52AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TanganTask.Win", "TanganTask.Win\TanganTask.Win.csproj", "{53833803-1842-49AD-BEAB-0A99E8DA3DE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79407AC7-C8C8-480B-A036-38C33A571030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79407AC7-C8C8-480B-A036-38C33A571030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79407AC7-C8C8-480B-A036-38C33A571030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79407AC7-C8C8-480B-A036-38C33A571030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49A2B45B-97A4-4F37-8C69-4DF5EB03280D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A2B45B-97A4-4F37-8C69-4DF5EB03280D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A2B45B-97A4-4F37-8C69-4DF5EB03280D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A2B45B-97A4-4F37-8C69-4DF5EB03280D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954682AE-18B1-489F-B5F2-7DB09BAD52AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954682AE-18B1-489F-B5F2-7DB09BAD52AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954682AE-18B1-489F-B5F2-7DB09BAD52AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954682AE-18B1-489F-B5F2-7DB09BAD52AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53833803-1842-49AD-BEAB-0A99E8DA3DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53833803-1842-49AD-BEAB-0A99E8DA3DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53833803-1842-49AD-BEAB-0A99E8DA3DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53833803-1842-49AD-BEAB-0A99E8DA3DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://veotani.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = TanganTaskTests\\TanganTaskTests.csproj
+		SccProjectName1 = TanganTaskTests
+		SccLocalPath1 = TanganTaskTests
+		SccProjectUniqueName2 = TanganTask.DAL\\TanganTask.DAL.csproj
+		SccProjectName2 = TanganTask.DAL
+		SccLocalPath2 = TanganTask.DAL
+		SccProjectUniqueName3 = TanganTask.MailManager\\TanganTask.MailManager.csproj
+		SccProjectName3 = TanganTask.MailManager
+		SccLocalPath3 = TanganTask.MailManager
+		SccProjectUniqueName4 = TanganTask.Win\\TanganTask.Win.csproj
+		SccProjectName4 = TanganTask.Win
+		SccLocalPath4 = TanganTask.Win
+	EndGlobalSection
+EndGlobal

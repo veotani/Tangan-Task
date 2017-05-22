@@ -1,0 +1,8 @@
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.MailManager\bin\Debug\TanganTask.MailManager.dll.config
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.MailManager\bin\Debug\TanganTask.MailManager.dll
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.MailManager\bin\Debug\TanganTask.MailManager.pdb
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.MailManager\bin\Debug\ImapX.dll
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.MailManager\bin\Debug\OpenPop.dll
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.MailManager\obj\Debug\TanganTask.MailManager.csprojResolveAssemblyReference.cache
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.MailManager\obj\Debug\TanganTask.MailManager.dll
+D:\prog\Tangan Task\Main\TanganTask\TanganTask.MailManager\obj\Debug\TanganTask.MailManager.pdb
